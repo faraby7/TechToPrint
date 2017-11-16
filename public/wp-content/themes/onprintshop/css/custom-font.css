@@ -1,0 +1,168 @@
+@font-face { font-family: 'robotocondensedregular'; src: url('fonts/robotocondensed-regular_0-webfont.eot') format('embedded-opentype'), url('fonts/robotocondensed-regular_0-webfont.woff') format('woff'), url('fonts/robotocondensed-regular_0-webfont.ttf') format('truetype'), url('fonts/robotocondensed-regular_0-webfont.svg') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'RobotoCondensed-Light'; src: url('fonts/RobotoCondensed-Light-webfont.eot') format('embedded-opentype'), url('fonts/RobotoCondensed-Light-webfont.woff') format('woff'), url('fonts/RobotoCondensed-Light-webfont.ttf') format('truetype'), url('fonts/RobotoCondensed-Light-webfont.svg') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'robotobold'; src: url('fonts/roboto-bold_4-webfont.eot'); src: url('fonts/roboto-bold_4-webfontd41d.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-bold_4-webfont.woff2') format('woff2'), url('fonts/roboto-bold_4-webfont.woff') format('woff'), url('fonts/roboto-bold_4-webfont.ttf') format('truetype'), url('fonts/roboto-bold_4-webfont.svg#robotobold') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'robotomedium'; src: url('fonts/roboto-medium_4-webfont.eot'); src: url('fonts/roboto-medium_4-webfontd41d.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-medium_4-webfont.woff2') format('woff2'), url('fonts/roboto-medium_4-webfont.woff') format('woff'), url('fonts/roboto-medium_4-webfont.ttf') format('truetype'), url('fonts/roboto-medium_4-webfont.svg#robotomedium') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'robotoregular'; src: url('fonts/roboto-regular_5-webfont.eot'); src: url('fonts/roboto-regular_5-webfontd41d.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-regular_5-webfont.woff2') format('woff2'), url('fonts/roboto-regular_5-webfont.woff') format('woff'), url('fonts/roboto-regular_5-webfont.ttf') format('truetype'), url('fonts/roboto-regular_5-webfont.svg#robotoregular') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'opsphotobook-icon'; src: url('fonts/opsphotobook-icon1e9b.eot?bfnsiq'); src: url('fonts/opsphotobook-icond41d.eot?#iefixbfnsiq') format('embedded-opentype'), url('fonts/opsphotobook-icon1e9b.ttf?bfnsiq') format('truetype'), url('fonts/opsphotobook-icon1e9b.woff?bfnsiq') format('woff'), url('fonts/opsphotobook-icon1e9b.svg?bfnsiq#opsphotobook-icon') format('svg'); font-weight: normal; font-style: normal; }
+[class^="opsphotobook-"], [class*=" opsphotobook-"] {
+font-family: 'opsphotobook-icon';
+speak: none;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;	/* Better Font Rendering =========== */
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.opsphotobook-IntuitiveDesignerStudio:before { content: "\e600"; }
+.opsphotobook-ProofandOrder:before { content: "\e601"; }
+@font-face { font-family: 'opshome-icon'; src: url('fonts/opshome-icon8029.eot?9b3ei5'); src: url('fonts/opshome-icon8029.eot?9b3ei5#iefix') format('embedded-opentype'), url('fonts/opshome-icon8029.ttf?9b3ei5') format('truetype'), url('fonts/opshome-icon8029.woff?9b3ei5') format('woff'), url('fonts/opshome-icon8029.svg?9b3ei5#opshome-icon') format('svg'); font-weight: normal; font-style: normal; }
+[class^="opshome-"], [class*=" opshome-"] {    /* use !important to prevent issues with browser extensions that change fonts */
+font-family: 'opshome-icon' !important;
+speak: none;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;	/* Better Font Rendering =========== */
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.opshome-Communication:before { content: "\e900"; }
+.opshome-GrowingNeeds:before { content: "\e901"; }
+.opshome-itskill:before { content: "\e902"; }
+.opshome-MeetPrintIndustry:before { content: "\e903"; }
+.opshome-Supportandtraining:before { content: "\e904"; }
+.opshome-ThirdPartyIntegration:before { content: "\e905"; }
+@font-face { font-family: 'ops-icon'; src: url('fonts/ops-iconbd7c.eot?-dxaslt'); src: url('fonts/ops-icond41d.eot?#iefix-dxaslt') format('embedded-opentype'), url('fonts/ops-iconbd7c.woff?-dxaslt') format('woff'), url('fonts/ops-iconbd7c.ttf?-dxaslt') format('truetype'), url('fonts/ops-iconbd7c.svg?-dxaslt#ops-icon') format('svg'); font-weight: normal; font-style: normal; }
+[class^="icon-"], [class*=" icon-"] {
+font-family: 'ops-icon';
+speak: none;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;/* Better Font Rendering =========== */
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.icon-addoncustommadesolution:before { content: "\e600"; }
+.icon-corporatestorefront:before { content: "\e601"; }
+.icon-dedicatedsupport:before { content: "\e602"; }
+.icon-designerstudiointegration:before { content: "\e603"; }
+.icon-mobileresponsivestorefront:before { content: "\e60c"; }
+.icon-multistorecentraladmin:before { content: "\e60d"; }
+.icon-onlinedesigntool:before { content: "\e60e"; }
+.icon-onlinephotobooksolution:before { content: "\e60f"; }
+.icon-onlinestoremanagement:before { content: "\e610"; }
+.icon-ordermanagementandintegration:before { content: "\e611"; }
+.icon-platinumwebtoprintsolution:before { content: "\e612"; }
+.icon-tradeprintersolution:before { content: "\e619"; }
+@font-face { font-family: 'icomoon'; src: url('fonts/icomoon1c97.eot?-pcaqtt'); src: url('fonts/icomoond41d.eot?#iefix-pcaqtt') format('embedded-opentype'), url('fonts/icomoon1c97.woff?-pcaqtt') format('woff'), url('fonts/icomoon1c97.ttf?-pcaqtt') format('truetype'), url('fonts/icomoon1c97.svg?-pcaqtt#icomoon') format('svg'); font-weight: normal; font-style: normal; }
+[class^="oicon-"], [class*=" oicon-"] {
+font-family: 'icomoon';
+speak: none;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.oicon-key-features:before { content: "\e600"; }
+.oicon-online-designer-studio-tour:before { content: "\e601"; }
+.oicon-photobook-products:before { content: "\e602"; }
+.oicon-solution-tour:before { content: "\e603"; }
+.oicon-why-us:before { content: "\e604"; }
+@font-face { font-family: 'opstps-icon'; src: url('fonts/opstps-icona3fe.eot?-rvpfpe'); src: url('fonts/opstps-icond41d.eot?#iefix-rvpfpe') format('embedded-opentype'), url('fonts/opstps-icona3fe.ttf?-rvpfpe') format('truetype'), url('fonts/opstps-icona3fe.woff?-rvpfpe') format('woff'), url('fonts/opstps-icona3fe.svg?-rvpfpe#opstps-icon') format('svg'); font-weight: normal; font-style: normal; }
+[class^="tps-"], [class*=" tps-"] {
+font-family: 'opstps-icon';
+speak: none;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;	/* Better Font Rendering =========== */
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.tps-easy_migration:before { content: "\e60c"; }
+.tps-engage_B2C:before { content: "\e60d"; }
+.tps-expand_your_business:before { content: "\e60e"; }
+.tps-most_esy_to_use:before { content: "\e60f"; }
+.tps-simplified__automated:before { content: "\e610"; }
+.tps-xiblity_to_integrate:before { content: "\e611"; }
+.tps-5_Live_Support:before { content: "\e606"; }
+.tps-Highly_Customizable_and_Scalable:before { content: "\e607"; }
+.tps-Most_Easy_to_Setup__Get_Started:before { content: "\e608"; }
+.tps-Proactively_Upgrade_Solution:before { content: "\e609"; }
+.tps-SME_Printers_can_use_TPS:before { content: "\e60a"; }
+.tps-Trade_Printers_can_use_TPS:before { content: "\e60b"; }
+.tps-Live-Dashboard-and-Robust-Reporting .path1:before { content: "\e600"; color: rgb(55, 52, 53); }
+.tps-Live-Dashboard-and-Robust-Reporting .path2:before { content: "\e601"; margin-left: -1em; color: rgb(0, 0, 0); }
+.tps-Marketing-Website-for-TradePrinter:before { content: "\e602"; }
+.tps-Reseller-Admin-Panel:before { content: "\e603"; }
+.tps-Reseller-Storefront:before { content: "\e604"; }
+.tps-Trade-Printer-Admin-Panel:before { content: "\e605"; }
+@font-face { font-family: 'opscms-icon'; src: url('fonts/opscms-icon133f.eot?57z14j'); src: url('fonts/opscms-icon133f.eot?57z14j#iefix') format('embedded-opentype'), url('fonts/opscms-icon133f.ttf?57z14j') format('truetype'), url('fonts/opscms-icon133f.woff?57z14j') format('woff'), url('fonts/opscms-icon133f.svg?57z14j#opscms-icon') format('svg'); font-weight: normal; font-style: normal; }
+ [class^="cms-"], [class*=" cms-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'opscms-icon' !important;
+ speak: none;
+ font-style: normal;
+ font-weight: normal;
+ font-variant: normal;
+ text-transform: none;
+ line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+}
+.cms-AdvanceB2BforCorporates:before { content: "\e90f"; }
+.cms-DesignerStudioIntegration:before { content: "\e910"; }
+.cms-OnlinePhotobookSolution:before { content: "\e911"; }
+.cms-Tailor-MadeSolution:before { content: "\e912"; }
+.cms-TradePrinterSolutionTPS:before { content: "\e913"; }
+.cms-W2P-Single--Multi-Domain:before { content: "\e914"; }
+.cms-bottom-quote:before { content: "\e900"; }
+.cms-cmspdf-icon:before { content: "\e901"; }
+.cms-ConsistentUpgrades:before { content: "\e902"; }
+.cms-FastChangingNeeds:before { content: "\e903"; }
+.cms-FlexibleBusinessModels:before { content: "\e904"; }
+.cms-FocussingonCoreCompetency:before { content: "\e905"; }
+.cms-GrowthConstraint:before { content: "\e906"; }
+.cms-HighCostEffective:before { content: "\e907"; }
+.cms-Integratedsolution:before { content: "\e908"; }
+.cms-ITTeamsDifficulty:before { content: "\e909"; }
+.cms-LosingOpportunitiesorClients:before { content: "\e90a"; }
+.cms-ThirdPartyintigration:before { content: "\e90b"; }
+.cms-TimeConsuming:before { content: "\e90c"; }
+.cms-top-quote:before { content: "\e90d"; }
+.cms-WideRangesolutions:before { content: "\e90e"; }
+/*ops-custom-icon*/
+@font-face { font-family: 'ops-custom-icon'; src: url('fonts/ops-custom-icon3bbb.eot?y2zzsq'); src: url('fonts/ops-custom-icon3bbb.eot?y2zzsq#iefix') format('embedded-opentype'),  url('fonts/ops-custom-icon3bbb.ttf?y2zzsq') format('truetype'),  url('fonts/ops-custom-icon3bbb.woff?y2zzsq') format('woff'),  url('fonts/ops-custom-icon3bbb.svg?y2zzsq#ops-custom-icon') format('svg'); font-weight: normal; font-style: normal; }
+ [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'ops-custom-icon' !important;
+ speak: none;
+ font-style: normal;
+ font-weight: normal;
+ font-variant: normal;
+ text-transform: none;
+ line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+}
+.icon-CustomReports:before { content: "\e900"; }
+.icon-Customizable:before { content: "\e901"; }
+.icon-DynamicProfiles:before { content: "\e902"; }
+.icon-ExternalInternalDatabaseIntegration:before { content: "\e903"; }
+.icon-Integrations:before { content: "\e904"; }
+.icon-Multilayerorderingandapprovalprocess:before { content: "\e905"; }
+.icon-RulebasedTemplatePersonalization:before { content: "\e906"; }
+.icon-SplitShipping:before { content: "\e907"; }
